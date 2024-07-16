@@ -1,4 +1,4 @@
-## Projetos pessoais me utilizando do Power BI
+## Projetos pessoais em Power BI
 
 Esses projetos foram utilizados para testar meu aprensizado em Power BI e para aprofundar meus conhecimentos nessa ferramenta que é extremamente versátil e poderosa para a área de dados.
 
